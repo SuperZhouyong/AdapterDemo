@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_unfocus">#e5e5e5</color>
+    <color name="text_color1">#333333</color>
+    <color name="text_color2">#666666</color>
+    <color name="text_color3">#999999</color>
+    <color name="app_focus" >#ff7d1d</color>
+    <color name="font_1">#ff333333</color>
+</resources>
